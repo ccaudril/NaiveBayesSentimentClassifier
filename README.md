@@ -24,7 +24,6 @@ The file is rather equilibrate because it contains:
 Handles the reading operations to give an usable database.
 Attributes:
 - folder: folder where all the files related to the database are located
-- 
 Methods:
 - read_data(filename: Read the file where the data is and stores the interesting data from the file in a numpy matrix: columns = tweetText, sentimentLabel ; rows = data samples
 - Both columns tweetId and tweetDate are note useful for our model.
