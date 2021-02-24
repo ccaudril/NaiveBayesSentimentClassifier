@@ -1,6 +1,6 @@
 # NaiveBayesSentimentClassifier
-###INTRODUCTION
-##Problem presentation
+## INTRODUCTION
+### Problem presentation
 Given a database containing more than a million tweets, the problem was to create a model able
 to decide if a certain tweet would show a positive or a negative sentiment. For this purpose, the
 instruction was to create a Bayesian network to carry out this task.
